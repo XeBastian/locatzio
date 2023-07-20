@@ -1,10 +1,8 @@
 # locatzio
 
-A new Flutter project.
+A Very simple app to fetch actual device location
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+https://github.com/XeBastian/locatzio/assets/42617594/2ac37c9b-60a5-4aef-ba2f-f0c5555e2203
 
 A few resources to get you started if this is your first Flutter project:
 
